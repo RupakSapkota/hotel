@@ -1,0 +1,94 @@
+/* yellow_meals */
+.free-logo
+{
+    width: 166.63px;
+    height: 227.772px;
+  background-repeat : no-repeat;
+  position : absolute ;
+  left : 599px;
+  top : 353px;
+}
+
+.free-meals{
+    font-size: 107px;
+    position : absolute ;
+  left : 500px;
+  top : 604px;
+  padding-left: 20px;
+ 
+}
+
+.buddha-tmple{
+    width: 100%;
+    height: 100vh;
+background-repeat : no-repeat;
+
+left : 0px;
+top : 54px;
+}
+
+#text-area{
+    display: flex;
+}
+
+.left-text{
+    
+  
+    font-size: 18px;
+    left : 81px;
+    top : 987px;
+    padding-left: 78px;
+    padding-right: 80px;
+    padding-top: 107px;
+}
+.right-text{
+   
+    font-size: 18px;
+    left : 727px;
+    top : 987px;
+    padding-right: 72px;
+    padding-top: 107px;
+   
+}
+
+.description{
+    color: #fff;
+    font-size: 21px;
+    position: absolute;
+    left : 700px;
+    top : 860px;
+    text-align: center;
+   
+}
+
+
+
+.discription-bar{
+     background : #FFA54F;
+  background : rgba(255, 165, 79, 1);
+  position : absolute ;
+  left : 0px;
+  top : 827px;
+  
+}
+
+.des{
+    background-repeat : no-repeat;
+    position : absolute ;
+    left : 0px;
+    top : 837px;
+}
+
+ /* #contact-us{
+    display: inline-block;
+    background: #FFA54F;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;  
+  
+}  */
+
+.boxes{
+    padding: 100px;
+}

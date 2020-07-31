@@ -1,0 +1,101 @@
+/* utility classes */
+
+.container{
+    margin: auto;
+    max-width: 1200px;
+    overflow: auto;
+    padding: 0 20px;
+}
+
+.text-primary{
+    color: #f7c08a;
+}
+
+.lead{
+    font-size: 20px;
+}
+
+.btn{
+    display: inline-block;
+    font-size: 18px;
+    color: #fff;
+    background: #333;
+    padding : 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btns-brown{
+    display: inline-block;
+    font-size: 18px;
+    color: #333;
+    background: #f7c08a;
+    padding : 13px 20px;
+    border: none;
+    cursor: pointer;
+}
+    .btns-white{
+    display: inline-block;
+    font-size: 18px;
+    color: #333;
+    background: #f4f4f4;
+    padding : 13px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 9px;
+}
+
+.btn-brown:hover{
+    color: #333;
+    background: #f4f4f4;
+   
+}
+.btn-white:hover{
+    color: #333;
+    background: #f7c08a;
+   
+}
+
+.btn:hover{
+    background: #f7c08a;
+    color: #333;
+}
+
+.btn-light{
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-dark{
+    background: #333;
+    color:#f4f4f4;
+}
+.bg-light{
+    background: #f4f4f4;
+    color: #333;
+}
+
+.bg-primary{
+color: #333;
+background: #f7c08a;
+}
+
+.clr{
+    clear: both;
+}
+
+.l-heading{
+    font-size: 40px;
+    line-height: 1.2;
+}
+
+/* padding */
+.py-1{
+    padding: 10px 0;
+}
+.py-2{
+    padding: 20px 0;
+}
+.py-3{
+    padding: 30px 0;
+}
